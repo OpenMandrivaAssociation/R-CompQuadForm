@@ -44,3 +44,11 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
+
+
+%changelog
+* Sat Feb 18 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3-1
++ Revision: 777035
+- Import R-CompQuadForm
+- Import R-CompQuadForm
+
