@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.4
-Release:          2
+Release:          3
 Summary:          Distribution function of quadratic forms in normal variables
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
